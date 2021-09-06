@@ -1,3 +1,3 @@
 # coronavirus-tracker
 
-Spring Boot Project to track real time corona cases information.
+Spring Boot Project to provide real time corona cases info.
